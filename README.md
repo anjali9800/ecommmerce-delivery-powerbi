@@ -63,7 +63,3 @@ The dashboard visualizes data using interactive charts, KPIs, and category analy
 Aspiring Data Analyst | Power BI Enthusiast
 
 ---
-
-## License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
